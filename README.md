@@ -1,34 +1,295 @@
-# dame-dinero
-1:"$Sreact.fragment"
-2:I[44638,["69066","static/chunks/dc112a36-4dd9553e3950a789.js","63712","static/chunks/63712-08d55a4030f898f7.js","44638","static/chunks/44638-22642ed4434648b0.js","7177","static/chunks/app/layout-414e3e65ac0c109b.js"],""]
-3:I[87555,[],""]
-4:I[31295,[],""]
-5:I[32613,["73345","static/chunks/73345-c6c417d67f761339.js","56060","static/chunks/56060-72611dc1ca384f99.js","84382","static/chunks/84382-094149ffbac5bc85.js","53090","static/chunks/53090-a64743b05c92b22e.js","30731","static/chunks/30731-b4906d3166248ccd.js","24345","static/chunks/app/not-found-79dd159fdf7277cf.js"],"default"]
-6:I[82005,["69066","static/chunks/dc112a36-4dd9553e3950a789.js","63712","static/chunks/63712-08d55a4030f898f7.js","44638","static/chunks/44638-22642ed4434648b0.js","7177","static/chunks/app/layout-414e3e65ac0c109b.js"],"default"]
-7:I[49867,["69066","static/chunks/dc112a36-4dd9553e3950a789.js","63712","static/chunks/63712-08d55a4030f898f7.js","44638","static/chunks/44638-22642ed4434648b0.js","7177","static/chunks/app/layout-414e3e65ac0c109b.js"],"default"]
-8:I[69243,["19097","static/chunks/app/(auth)/layout-2f72bfb00bd0ee9b.js"],""]
-9:I[90894,[],"ClientPageRoot"]
-a:I[16545,["73345","static/chunks/73345-c6c417d67f761339.js","58211","static/chunks/58211-d9d578b8de9e3293.js","6020","static/chunks/6020-a95af70c5ad02913.js","84382","static/chunks/84382-094149ffbac5bc85.js","53090","static/chunks/53090-a64743b05c92b22e.js","92148","static/chunks/92148-887f80f44d59d305.js","82849","static/chunks/82849-35d68a185f8daedd.js","17228","static/chunks/17228-9fb47d8a88d40345.js","50066","static/chunks/50066-8a944b32c5e2a886.js","44746","static/chunks/44746-d8a20e7cf828dbb6.js","95325","static/chunks/app/(auth)/slots/slot/page-179771f080d760f1.js"],"default"]
-d:I[59665,[],"OutletBoundary"]
-10:I[74911,[],"AsyncMetadataOutlet"]
-12:I[59665,[],"ViewportBoundary"]
-14:I[59665,[],"MetadataBoundary"]
-16:I[73943,["73345","static/chunks/73345-c6c417d67f761339.js","56060","static/chunks/56060-72611dc1ca384f99.js","84382","static/chunks/84382-094149ffbac5bc85.js","53090","static/chunks/53090-a64743b05c92b22e.js","30731","static/chunks/30731-b4906d3166248ccd.js","73943","static/chunks/73943-1d520689248da833.js","34219","static/chunks/app/global-error-884c85b40e4582c6.js"],"default"]
-:HL["/_next/static/css/d4dbba7cd4889f6e.css","style"]
-:HL["/_next/static/css/893aa472a543a98e.css","style"]
-:HL["/_next/static/css/f4c35d25ad508bbb.css","style"]
-:HL["/_next/static/css/63759ce5665e1183.css","style"]
-:HL["/_next/static/css/e4fbe028118c5d17.css","style"]
-:HL["/_next/static/css/c3584f51ef99d3c6.css","style"]
-:HL["/_next/static/css/241bf1e92b47aa57.css","style"]
-0:{"P":null,"b":"phPOQz_dVLuUFvJNpgd5C","p":"","c":["","slots","slot"],"i":false,"f":[[["",{"children":["(auth)",{"children":["slots",{"children":["slot",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d4dbba7cd4889f6e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"translate":"no","children":[["$","head",null,{"children":["$","link",null,{"rel":"icon","href":"/global/favicons/greenColorDSGN.svg","type":"image/svg+xml"}]}],["$","body",null,{"className":"langLoading authLoading greenColorDSGN","children":[["$","$L2",null,{"showSpinner":false,"color":"var(--primary-accent)","crawlSpeed":300,"height":3,"easing":"ease","speed":300,"zIndex":1000}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L5",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/921e3bd87719630a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/f4c35d25ad508bbb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/c3584f51ef99d3c6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L6",null,{}],["$","$L7",null,{}]]}]]}]]}],{"children":["(auth)",["$","$1","c",{"children":[null,[["$","$L8",null,{"src":"/global/fbq.js"}],["$","$L8",null,{"src":"/global/twq.js"}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]]}],{"children":["slots",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["slot",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L9",null,{"Component":"$a","searchParams":{},"params":{},"promises":["$@b","$@c"]}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/893aa472a543a98e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/f4c35d25ad508bbb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/63759ce5665e1183.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/css/e4fbe028118c5d17.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/_next/static/css/c3584f51ef99d3c6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","5",{"rel":"stylesheet","href":"/_next/static/css/241bf1e92b47aa57.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$Ld",null,{"children":["$Le","$Lf",["$","$L10",null,{"promise":"$@11"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","0BBEsWrNudA0tnEFWbfxEv",{"children":[["$","$L12",null,{"children":"$L13"}],null]}],["$","$L14",null,{"children":"$L15"}]]}],false]],"m":"$undefined","G":["$16",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d4dbba7cd4889f6e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/921e3bd87719630a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/f4c35d25ad508bbb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/css/c3584f51ef99d3c6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"s":false,"S":true}
-17:"$Sreact.suspense"
-18:I[74911,[],"AsyncMetadata"]
-b:{}
-c:{}
-15:["$","div",null,{"hidden":true,"children":["$","$17",null,{"fallback":null,"children":["$","$L18",null,{"promise":"$@19"}]}]}]
-f:null
-13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#01FF81"}]]
-e:null
-11:{"metadata":[["$","title","0",{"children":"Wazbee | Slot"}],["$","meta","1",{"name":"description","content":"Wazbee is a blockchain-based crypto casino with transparent smart contracts, secure bets, and has been in service since 2017."}]],"error":null,"digest":"$undefined"}
-19:{"metadata":"$11:metadata","error":null,"digest":"$undefined"}
+# 🎰 Dame Dinero - Casino App
+
+> **Una plataforma de casino moderna, rápida y segura donde los usuarios pueden jugar y ganar sin límites**
+
+![GitHub License](https://img.shields.io/badge/license-Unlicense-blue)
+![Status](https://img.shields.io/badge/status-Active-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+
+## 📋 Descripción
+
+**Dame Dinero** es una aplicación de casino de última generación diseñada para ofrecer una experiencia de juego premium. Con tecnología blockchain, transparencia total y un sistema de ganancias sin restricciones, brinda a los usuarios control total sobre sus fondos y premios.
+
+### ✨ Características Principales
+
+- 🎮 **Múltiples juegos de casino** - Slots, blackjack, ruleta, póker y más
+- ⚡ **Procesamiento rápido** - Transacciones instantáneas
+- 🔒 **Seguridad de nivel bancario** - Encriptación end-to-end
+- 📊 **Transparencia total** - Smart contracts verificables
+- 💰 **Sin límites de ganancias** - Retira tus ganancias cuando quieras
+- 🌍 **Acceso global** - Disponible en múltiples países
+- 📱 **Responsive** - Funciona en desktop, tablet y móvil
+- 🎁 **Bonificaciones y promociones** - Recompensas diarias y semanales
+
+## 🚀 Inicio Rápido
+
+### Para Usuarios
+
+1. **Crear cuenta**
+   ```
+   Visita https://dame-dinero.com
+   Haz clic en "Registrarse"
+   Completa tus datos
+   Verifica tu email
+   ```
+
+2. **Hacer un depósito**
+   ```
+   Ve a "Billetera"
+   Selecciona "Depositar"
+   Elige tu método de pago
+   Ingresa la cantidad
+   Confirma la transacción
+   ```
+
+3. **Juega y gana**
+   ```
+   Elige tu juego favorito
+   Establece tu apuesta
+   ¡Que comience la diversión!
+   ```
+
+4. **Retira tus ganancias**
+   ```
+   Ve a "Mis Ganancias"
+   Solicita un retiro
+   Elige tu método de pago
+   Recibe tu dinero en 24-48 horas
+   ```
+
+### Para Desarrolladores
+
+#### Requisitos Previos
+- Node.js v18+ 
+- npm o yarn
+- Git
+- MongoDB 5.0+
+
+#### Instalación
+
+```bash
+# Clonar el repositorio
+git clone https://github.com/fernandoyblank7-creator/dame-dinero.git
+cd dame-dinero
+
+# Instalar dependencias
+npm install
+
+# Crear archivo .env
+cp .env.example .env
+
+# Configurar variables de entorno
+# Editar .env con tus credenciales
+
+# Ejecutar en desarrollo
+npm run dev
+
+# Ejecutar tests
+npm run test
+
+# Build para producción
+npm run build
+```
+
+#### Estructura del Proyecto
+
+```
+dame-dinero/
+├── src/
+│   ├── components/      # Componentes React reutilizables
+│   ├── pages/          # Páginas de la aplicación
+│   ├── api/            # Rutas API backend
+│   ├── services/       # Servicios de negocio
+│   ├── utils/          # Funciones utilitarias
+│   ├── styles/         # Estilos globales
+│   └── config/         # Configuraciones
+├── public/             # Archivos estáticos
+├── tests/              # Tests unitarios e integración
+├── docs/               # Documentación
+├── .env.example        # Variables de entorno ejemplo
+├── package.json        # Dependencias
+└── README.md           # Este archivo
+```
+
+## 🎮 Juegos Disponibles
+
+| Juego | Multiplicador | Volatilidad | RTP |
+|-------|---------------|-------------|-----|
+| 🎰 Slots Clásicos | 5x - 500x | Media | 96.5% |
+| 🎲 Ruleta Europea | 36x | Baja | 97.3% |
+| 🃏 Blackjack | 2x - 3x | Baja | 99.4% |
+| 🎴 Póker | Variable | Alta | 98.5% |
+| 🎯 Dados | 6x - 100x | Media | 97.0% |
+
+## 💻 Tecnologías Utilizadas
+
+### Frontend
+- **React 18** - Interfaz de usuario
+- **Next.js 14** - Framework SSR
+- **TypeScript** - Tipado estático
+- **Tailwind CSS** - Estilos responsivos
+- **Redux Toolkit** - Gestión de estado
+
+### Backend
+- **Node.js** - Runtime de JavaScript
+- **Express.js** - Framework web
+- **MongoDB** - Base de datos
+- **Ethereum** - Blockchain
+- **Web3.js** - Integración blockchain
+
+### Seguridad
+- **JWT** - Autenticación
+- **bcryptjs** - Encriptación de contraseñas
+- **Helmet** - Headers de seguridad
+- **Rate Limiting** - Protección contra ataques
+
+### DevOps
+- **Docker** - Containerización
+- **GitHub Actions** - CI/CD
+- **PM2** - Gestor de procesos
+
+## 🔒 Seguridad
+
+- ✅ Encriptación AES-256 para datos sensibles
+- ✅ Autenticación de 2 factores (2FA)
+- ✅ Smart contracts auditados
+- ✅ Certificado SSL/TLS
+- ✅ Cumplimiento GDPR
+- ✅ Auditorías de seguridad regulares
+
+## 📊 API Endpoints
+
+### Autenticación
+```
+POST   /api/auth/register      - Registrar usuario
+POST   /api/auth/login         - Iniciar sesión
+POST   /api/auth/logout        - Cerrar sesión
+POST   /api/auth/refresh       - Renovar token
+```
+
+### Juegos
+```
+GET    /api/games              - Listar juegos disponibles
+GET    /api/games/:id          - Obtener detalles del juego
+POST   /api/games/:id/play     - Realizar una apuesta
+GET    /api/games/:id/history  - Historial de jugadas
+```
+
+### Billetera
+```
+GET    /api/wallet/balance     - Saldo actual
+POST   /api/wallet/deposit     - Realizar depósito
+POST   /api/wallet/withdraw    - Solicitar retiro
+GET    /api/wallet/transactions - Historial de transacciones
+```
+
+### Ganancias
+```
+GET    /api/earnings           - Total de ganancias
+GET    /api/earnings/stats     - Estadísticas de ganancias
+GET    /api/earnings/history   - Historial detallado
+POST   /api/earnings/withdraw  - Retirar ganancias
+```
+
+## 🤝 Contribuir
+
+¡Nos encanta recibir contribuciones! Para contribuir:
+
+1. **Fork** el repositorio
+2. **Crea una rama** (`git checkout -b feature/AmazingFeature`)
+3. **Commit tus cambios** (`git commit -m 'Add AmazingFeature'`)
+4. **Push a la rama** (`git push origin feature/AmazingFeature`)
+5. **Abre un Pull Request**
+
+### Directrices de Código
+- Sigue los estándares de código existentes
+- Escribe tests para nuevas funcionalidades
+- Actualiza la documentación
+- Mantén commits claros y descriptivos
+
+## 📈 Roadmap
+
+### v1.1 (Próximo Mes)
+- [ ] Soporte para múltiples criptomonedas
+- [ ] Torneo semanal con premios
+- [ ] Streaming en vivo de juegos
+- [ ] Sistema de referidos mejorado
+
+### v1.2 (Dos Meses)
+- [ ] Realidad aumentada para slots
+- [ ] Multijugador en tiempo real
+- [ ] API pública para desarrolladores
+- [ ] Aplicación móvil nativa
+
+### v2.0 (Q4 2026)
+- [ ] Metaverso integrado
+- [ ] NFTs coleccionables
+- [ ] DAO para gobernanza
+- [ ] Staking de tokens
+
+## ❓ Preguntas Frecuentes
+
+**P: ¿Hay límite en las ganancias que puedo retirar?**
+R: No, puedes retirar todas tus ganancias sin límites. Solo aplicamos límites técnicos por razones de seguridad.
+
+**P: ¿Es legal jugar aquí?**
+R: Dame Dinero cumple con todas las regulaciones locales. Verifica la legalidad en tu jurisdicción.
+
+**P: ¿Cuánto tarda un retiro?**
+R: Los retiros se procesan en 24-48 horas hábiles, excepto fines de semana.
+
+**P: ¿Hay comisiones por retiro?**
+R: No cobramos comisiones en retiros. Los únicos costos son los de la red blockchain (si aplica).
+
+**P: ¿Puedo jugar desde cualquier país?**
+R: Estamos disponibles en la mayoría de países. Algunos están restringidos por regulaciones locales.
+
+**P: ¿Cómo reporto un problema?**
+R: Contacta a soporte@dame-dinero.com o abre un issue en este repositorio.
+
+## 🆘 Soporte
+
+- 📧 **Email**: support@dame-dinero.com
+- 💬 **Chat en vivo**: Disponible 24/7 en nuestra web
+- 🐛 **Reportar bugs**: [Issues](https://github.com/fernandoyblank7-creator/dame-dinero/issues)
+- 💡 **Sugerencias**: [Discussions](https://github.com/fernandoyblank7-creator/dame-dinero/discussions)
+
+## ⚖️ Responsabilidad Legal
+
+**Juego Responsable**: La apuesta puede generar dependencia. Juega de forma responsable. Si necesitas ayuda, contacta a organizaciones de ayuda:
+- [Gamblers Anonymous](https://www.gamblersanonymous.org/)
+- [National Council on Problem Gambling](https://www.ncpg.org/)
+
+**Términos de Servicio**: Al usar Dame Dinero, aceptas nuestros términos. Consulta [TERMS.md](./TERMS.md) para más detalles.
+
+**Política de Privacidad**: Tu privacidad es importante. Lee nuestra [PRIVACY.md](./PRIVACY.md)
+
+## 📄 Licencia
+
+Este proyecto está bajo la licencia **The Unlicense**. Puedes ver más detalles en el archivo [LICENSE](./LICENSE).
+
+```
+This is free and unencumbered software released into the public domain.
+```
+
+## 👨‍💻 Autor
+
+**Fernando Yablank** - [@fernandoyblank7-creator](https://github.com/fernandoyblank7-creator)
+
+## 🌟 Agradecimientos
+
+- A todos nuestros usuarios por su confianza
+- A la comunidad open source
+- A nuestros inversores y socios
+
+---
+
+<div align="center">
+
+**Dame Dinero** - Juega, Gana, Disfruta
+
+[Sitio Web](https://dame-dinero.com) • [Twitter](https://twitter.com/dame_dinero) • [Discord](https://discord.gg/dame-dinero)
+
+Hecho con ❤️ por la comunidad
+
+</div>
